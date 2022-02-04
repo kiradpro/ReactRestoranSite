@@ -1,4 +1,3 @@
-// Наше меню
 const samplePizzas = {
   pizza1: {
     name: 'Pizza Margarita',
